@@ -27,7 +27,7 @@ qv-data/
 
 1. リポジトリのクローン:
 ```bash
-git clone https://github.com/yourusername/qv-data.git
+git clone https://github.com/JarrySand/qv-data.git
 cd qv-data
 ```
 
