@@ -1,0 +1,42 @@
+{
+  "election_id": "f3de17cf-af54-40e0-b460-d3c28d691df6",
+  "election_name": "Beyondミーティング　QV応援投票",
+  "budget": 99,
+  "results": [
+    {
+      "title": "政を祭に変える #vote_for_プロジェクト",
+      "description": null,
+      "total_votes": 141
+    },
+    {
+      "title": "イナトリアートセンター計画",
+      "description": null,
+      "total_votes": 84
+    },
+    {
+      "title": "淡路島クエストカレッジ",
+      "description": null,
+      "total_votes": 216
+    },
+    {
+      "title": "屋久島と地球の未来会議2026",
+      "description": null,
+      "total_votes": 83
+    },
+    {
+      "title": "ビオ田んぼプロジェクト",
+      "description": null,
+      "total_votes": 119
+    },
+    {
+      "title": "パラ旅応援団",
+      "description": null,
+      "total_votes": 131
+    },
+    {
+      "title": "10代・20代の『いま、やりたい』を後押しする拠点　ちばユースセンターPRISM",
+      "description": null,
+      "total_votes": 156
+    }
+  ]
+}
